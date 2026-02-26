@@ -1,0 +1,782 @@
+[
+    {
+        "merchant_id": "1-C7XZN8AYCRDHVE",
+        "name": "Joint Smash Burgers - Central Market",
+        "cuisine": "Burger",
+        "timingEveryday": "9:00am-9:00pm",
+        "distance": 4.207,
+        "ETA": 75,
+        "rating": 5,
+        "DeliveryBy": "GRAB",
+        "DeliveryOption": [
+            "DELIVERY",
+            "TAKEAWAY"
+        ],
+        "VoteCount": 12,
+        "Tips": [
+            "For orders less than RM12.00 for this restaurant, a small order fee applies."
+        ],
+        "BuisinessType": "FOOD",
+        "Offers": [
+            {
+                "Title": "Get GrabUnlimited",
+                "SubTitle": "RM3.00 off delivery"
+            },
+            {
+                "Title": "50% off",
+                "SubTitle": "Min. spend RM12.00"
+            }
+        ],
+        "menu": [
+            {
+                "category_name": "For You",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Doubl-e beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Smash Burgers",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Sides",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Drinks",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043148258",
+                        "name": "Coke",
+                        "description": "Coke will be provided randomly based on availability (Original / Zero / Less Sugar) and may be served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043148258/photo/menueditor_item_deb6f24ba60741c1b398cb95a19aff28_1770032457891756554.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043156007",
+                        "name": "Mineral Water",
+                        "description": "550ml bottled mineral water, served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043156007/photo/menueditor_item_e792470f88f24f2480242605e2fae357_1770032655510194746.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "merchant_id": "1-C7XZN8AYCRDHVE",
+        "name": "Joint Smash Burgers - Central Market",
+        "cuisine": "Burger",
+        "timingEveryday": "9:00am-9:00pm",
+        "distance": 4.207,
+        "ETA": 75,
+        "rating": 5,
+        "DeliveryBy": "GRAB",
+        "DeliveryOption": [
+            "DELIVERY",
+            "TAKEAWAY"
+        ],
+        "VoteCount": 12,
+        "Tips": [
+            "For orders less than RM12.00 for this restaurant, a small order fee applies."
+        ],
+        "BuisinessType": "FOOD",
+        "Offers": [
+            {
+                "Title": "Get GrabUnlimited",
+                "SubTitle": "RM3.00 off delivery"
+            },
+            {
+                "Title": "50% off",
+                "SubTitle": "Min. spend RM12.00"
+            }
+        ],
+        "menu": [
+            {
+                "category_name": "For You",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Doubl-e beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Smash Burgers",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Sides",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Drinks",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043148258",
+                        "name": "Coke",
+                        "description": "Coke will be provided randomly based on availability (Original / Zero / Less Sugar) and may be served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043148258/photo/menueditor_item_deb6f24ba60741c1b398cb95a19aff28_1770032457891756554.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043156007",
+                        "name": "Mineral Water",
+                        "description": "550ml bottled mineral water, served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043156007/photo/menueditor_item_e792470f88f24f2480242605e2fae357_1770032655510194746.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "merchant_id": "1-C7XZN8AYCRDHVE",
+        "name": "Joint Smash Burgers - Central Market",
+        "cuisine": "Burger",
+        "timingEveryday": "9:00am-9:00pm",
+        "distance": 4.207,
+        "ETA": 75,
+        "rating": 5,
+        "DeliveryBy": "GRAB",
+        "DeliveryOption": [
+            "DELIVERY",
+            "TAKEAWAY"
+        ],
+        "VoteCount": 12,
+        "Tips": [
+            "For orders less than RM12.00 for this restaurant, a small order fee applies."
+        ],
+        "BuisinessType": "FOOD",
+        "Offers": [
+            {
+                "Title": "Get GrabUnlimited",
+                "SubTitle": "RM3.00 off delivery"
+            },
+            {
+                "Title": "50% off",
+                "SubTitle": "Min. spend RM12.00"
+            }
+        ],
+        "menu": [
+            {
+                "category_name": "For You",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Doubl-e beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Smash Burgers",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Sides",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Drinks",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043148258",
+                        "name": "Coke",
+                        "description": "Coke will be provided randomly based on availability (Original / Zero / Less Sugar) and may be served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043148258/photo/menueditor_item_deb6f24ba60741c1b398cb95a19aff28_1770032457891756554.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043156007",
+                        "name": "Mineral Water",
+                        "description": "550ml bottled mineral water, served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043156007/photo/menueditor_item_e792470f88f24f2480242605e2fae357_1770032655510194746.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "merchant_id": "1-C7XZN8AYCRDHVE",
+        "name": "Joint Smash Burgers - Central Market",
+        "cuisine": "Burger",
+        "timingEveryday": "9:00am-9:00pm",
+        "distance": 4.207,
+        "ETA": 75,
+        "rating": 5,
+        "DeliveryBy": "GRAB",
+        "DeliveryOption": [
+            "DELIVERY",
+            "TAKEAWAY"
+        ],
+        "VoteCount": 12,
+        "Tips": [
+            "For orders less than RM12.00 for this restaurant, a small order fee applies."
+        ],
+        "BuisinessType": "FOOD",
+        "Offers": [
+            {
+                "Title": "Get GrabUnlimited",
+                "SubTitle": "RM3.00 off delivery"
+            },
+            {
+                "Title": "50% off",
+                "SubTitle": "Min. spend RM12.00"
+            }
+        ],
+        "menu": [
+            {
+                "category_name": "For You",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Doubl-e beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Smash Burgers",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043035595",
+                        "name": "Classic Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 19.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043035595/photo/edeb5bc813d942e6b5eca215440c44e2_1769742153437285667.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043040410",
+                        "name": "Double Classic Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, and our house sauce. A classic that never disappoints.",
+                        "price_display": 26.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043040410/photo/menueditor_item_8966ad65955446b5b3a3c5772c8651bf_1770030589092807384.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043056719",
+                        "name": "The OG Cheeseburger",
+                        "description": "Single beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 20.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043056719/photo/0ed217d9dabf4ffcba4a59f3a4b913f6_1769742226091992848.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043066172",
+                        "name": "Double OG Cheeseburger",
+                        "description": "Double beef patty, melty American cheese, crunchy pickles, lettuce, tomato and our house sauce.",
+                        "price_display": 27.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043066172/photo/menueditor_item_97398b70e10c43e18d57ce93d03a048f_1770030682755648774.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Sides",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043082088",
+                        "name": "Curly Fries",
+                        "description": "Curly-cut topped 1 choices of sauce.",
+                        "price_display": 15.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043082088/photo/menueditor_item_0c6ce8c54a594f58970c54ba95848501_1770031396137105436.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043096694",
+                        "name": "Straight Fries",
+                        "description": "Straight-cut topped 1 choices of sauce.",
+                        "price_display": 14.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043096694/photo/773aba48e9924c46b237cdcecda50ae6_1769742206909141465.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043104418",
+                        "name": "Chic O Fries",
+                        "description": "Straight- cut fries topped with crispy chicken terders and 1 choice of sauce.",
+                        "price_display": 19.0,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043104418/photo/menueditor_item_c88bc4f08ba744c8b877def9936ac76d_1770031471686300263.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043124073",
+                        "name": "Chicken Strips",
+                        "description": "Crispy chicken strips served with one free sauce.",
+                        "price_display": 21.5,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043124073/photo/335ec477abce4c1989164b0aa684efb2_1769742136775436224.webp"
+                    }
+                ]
+            },
+            {
+                "category_name": "Drinks",
+                "items": [
+                    {
+                        "item_id": "MYITE20260130030043148258",
+                        "name": "Coke",
+                        "description": "Coke will be provided randomly based on availability (Original / Zero / Less Sugar) and may be served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043148258/photo/menueditor_item_deb6f24ba60741c1b398cb95a19aff28_1770032457891756554.webp"
+                    },
+                    {
+                        "item_id": "MYITE20260130030043156007",
+                        "name": "Mineral Water",
+                        "description": "550ml bottled mineral water, served cold or at room temperature.",
+                        "price_display": 4.8,
+                        "available": true,
+                        "images": "https://food-cms.grab.com/compressed_webp/items/MYITE20260130030043156007/photo/menueditor_item_e792470f88f24f2480242605e2fae357_1770032655510194746.webp"
+                    }
+                ]
+            }
+        ]
+    }
+]
